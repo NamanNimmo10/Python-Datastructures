@@ -1,0 +1,2 @@
+# Python-Datastructures
+These are my solutions to all the assignments which I had to complete for the course2 of programming for everybody(by University of Michigan) on coursera. Hope you all find it useful!
